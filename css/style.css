@@ -1,0 +1,19 @@
+body{
+    background-color: tomato;
+}
+
+.navegacion {
+    width: 100%;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedor_navegacion{
+    width: 50%;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
